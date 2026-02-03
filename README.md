@@ -8,6 +8,6 @@ It is a sofware designed for **monitoring** and **mapping** desktop computers in
  [Document Link](./resources/pdf/csolconnect.capstone.pdf) 
 
 ## Collaborators (My Groupmates on this Capstone Project)
-• [Shiaze](https://github.com/Sh1aze) <br>
-• [Adrian](https://github.com/imadrianpaul) <br>
-• Juz
+• [JM | Shiaze](https://www.linkedin.com/in/john-michael-ladores-a646532a8/)<br>
+• [Adrian](https://www.linkedin.com/in/adrian-pingkian-33711b279/) <br>
+• [Juz](https://www.linkedin.com/in/juz-matthew-ortega-4065192a9/) 
