@@ -11,3 +11,8 @@ It is a sofware designed for **monitoring** and **mapping** desktop computers in
 • [JM | Shiaze](https://www.linkedin.com/in/john-michael-ladores-a646532a8/)<br>
 • [Adrian](https://www.linkedin.com/in/adrian-pingkian-33711b279/) <br>
 • [Juz](https://www.linkedin.com/in/juz-matthew-ortega-4065192a9/) 
+
+## Languages and Tools Used:
+ ![Static Badge](https://img.shields.io/badge/C--Sharp-903ba8?style=for-the-badge&logo=sharp&logoColor=white)
+ ![Static Badge](https://img.shields.io/badge/WINFORMS-0880bc?style=for-the-badge)
+ ![Static Badge](https://img.shields.io/badge/ms_sql_server-white?style=for-the-badge&label=%E3%85%A4&labelColor=ff0033)
